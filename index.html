@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>@hitokoto_lab</title>
+</head>
+<body>
+<main id="main">
+	
+</main>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+<script>
+fetch('./readme.md').then(function(response) {
+	return response.text();
+}).then(function(text) {
+	document.getElementById("main").innerHTML = marked(text);
+});
+</script>  
+</body>
+</html>
