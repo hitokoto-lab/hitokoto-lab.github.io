@@ -50,5 +50,3 @@ A. 大変申し訳ありませんでした。bioにその旨を書いて頂け�
 恥ずかしい黒歴史、つらい人間関係、会社や学校、家族や恋愛の闇。   
 そんな闇は、†闇†シェアリングで吐き出しませんか？
 
-## <a href="http://www.adventar.org/calendars/1752">MCC Advent Calendar</a>
-Micro Computer Clubが主催するAdvent Calendarです。ぜひご拝読ください。
